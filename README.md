@@ -1,26 +1,33 @@
 # fivem-playmusic
 
-This is a FiveM script that allows players to play music from YouTube in the game. The script enables players to use the `/music` command followed by a valid YouTube link to play music. The music can be heard by players in the vicinity of the initiating player. The `/stopmusic` command is used to stop the currently playing music.
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
+FiveM Music Player is a script for the FiveM multiplayer modification that allows players to play music from YouTube in the game. This script provides an immersive and interactive music experience for players, allowing them to share their favorite tunes with others in the virtual world.
+
+## Features
+
+- Play music from YouTube by using the `/music` command
+- Surrounding players can hear the music being played
+- Stop the music playback with the `/stopmusic` command
 
 ## Installation
 
-1. Download the script files.
-2. Place the script files in the `resources` folder of your FiveM server.
-3. Restart your FiveM server to apply the changes.
+1. Ensure you have the FiveM multiplayer modification installed.
+2. Download the latest release of the FiveM Music Player script from the [Releases](https://github.com/refo0/fivem-playmusic/music.lua) page.
+3. Place the script files in the `resources` folder of your FiveM server.
+4. Restart your FiveM server to apply the changes.
 
 ## Usage
 
-To play music, use the following command:
+To play music, use the following command in the in-game chat:
 
 Example: `/music https://www.youtube.com/watch?v=dQw4w9WgXcQ`
 
 To stop the currently playing music, use the following command:
 
-## Additional Notes
+## Contributing
 
-- Make sure to provide a valid YouTube link when using the `/music` command.
-- The music playback is limited to the players in the vicinity of the initiating player.
-- Feel free to customize and enhance the script as per your requirements.
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
 
 ## License
 
