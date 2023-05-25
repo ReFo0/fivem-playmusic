@@ -13,7 +13,7 @@ FiveM Music Player is a script for the FiveM multiplayer modification that allow
 ## Installation
 
 1. Ensure you have the FiveM multiplayer modification installed.
-2. Download the latest release of the FiveM Music Player script from the [Releases](https://github.com/refo0/fivem-playmusic/music.lua) page.
+2. Download the latest release of the FiveM Music Player script from the [Releases](https://github.com/ReFo0/fivem-playmusic/blob/ReFo/music.lua) page.
 3. Place the script files in the `resources` folder of your FiveM server.
 4. Restart your FiveM server to apply the changes.
 
